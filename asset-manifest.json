@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/PokeApp/static/js/main.55b0d1c0.chunk.js",
+    "main.js.map": "/PokeApp/static/js/main.55b0d1c0.chunk.js.map",
+    "runtime~main.js": "/PokeApp/static/js/runtime~main.64ef547b.js",
+    "runtime~main.js.map": "/PokeApp/static/js/runtime~main.64ef547b.js.map",
+    "static/css/2.266e55a5.chunk.css": "/PokeApp/static/css/2.266e55a5.chunk.css",
+    "static/js/2.3541e4a9.chunk.js": "/PokeApp/static/js/2.3541e4a9.chunk.js",
+    "static/js/2.3541e4a9.chunk.js.map": "/PokeApp/static/js/2.3541e4a9.chunk.js.map",
+    "index.html": "/PokeApp/index.html",
+    "precache-manifest.696402ecd77409722215565ce9766b70.js": "/PokeApp/precache-manifest.696402ecd77409722215565ce9766b70.js",
+    "service-worker.js": "/PokeApp/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/PokeApp/static/css/2.266e55a5.chunk.css.map"
+  }
+}
