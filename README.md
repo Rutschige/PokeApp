@@ -19,6 +19,5 @@ Builds the app for production to the `build` folder.<br>
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ## Current Features:
-* Routing with navigation between pages
 * Pokedex feature that displays pokemon from generations 1-5
 * Form for Pokedex page to allow user to search for a pokemon by name or filter by generation/type 
