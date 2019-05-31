@@ -19,5 +19,9 @@ Builds the app for production to the `build` folder.<br>
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ## Current Features:
+* View deployed app here: https://rutschige.github.io/PokeApp/
 * Pokedex feature that displays pokemon from generations 1-5
 * Form for Pokedex page to allow user to search for a pokemon by name or filter by generation/type 
+
+## PokeAPI
+* Pokemon information retrieved from PokeAPI found at: https://pokeapi.co/
